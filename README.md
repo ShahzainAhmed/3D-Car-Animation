@@ -1,4 +1,4 @@
-# 3D-Car-Animation
+# 3D-Car-Animation:
 
 •	Introduction:
 This project is based on OpenGL and shows a 3D shaped car, which moves and takes actions according the keys and mouse clicks assigned to it. 
