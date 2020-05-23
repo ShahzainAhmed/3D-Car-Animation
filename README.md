@@ -25,8 +25,6 @@ Right arrow key - Moves car in backward direction.
 Esc Key - Exit from the program.
 Spacebar - Enter the main screen from start screen.
 
-
-
 •	Mouse Interactions:
  
 Press right mouse button to select the mouse menu. Following is the menu: 
