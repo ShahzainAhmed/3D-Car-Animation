@@ -11,7 +11,7 @@ This project is based on OpenGL and shows a 3D shaped car, which moves and takes
 
 3.	Comments: Most of the codes in this 3D OpenGL Program are commented to understand the whole program easily.
 
-•	Keyboard Interactions:
+## Keyboard Interactions:
 X - Rotates the car in 'x' direction.
 Y - Rotates the car in 'y' direction.
 Z - Rotates the car in 'z' direction.
