@@ -1,9 +1,9 @@
 # 3D-Car-Animation:
 
-•	Introduction:
+## Introduction:
 This project is based on OpenGL and shows a 3D shaped car, which moves and takes actions according the keys and mouse clicks assigned to it. 
 
-•	Features: 
+## Features: 
 
 1.	Start Screen: As you execute the program, first thing which comes up is the start screen where you will see the details of the project. The start screen has roll-numbers of students and the name of project. It also has the user interaction instructions about the use of mouse and keyboard functionality. There is option of going to main screen, by pressing 'space' key.
 
