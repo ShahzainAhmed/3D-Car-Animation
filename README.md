@@ -47,6 +47,3 @@ Night mode: This menu will let you switching to the Night mode, by showing darkn
 
 ## User Interaction:
 The user interaction is one of the most important part of any program. This 3D OpenGL Program also has user interactions, using both the keyboard as well as the mouse. Below is the description of the uses and functionality of keys and menus in this 3D OpenGL Program
-
-•	Source Code: (Code is explained with comments for better understanding) 
-(Attachment = CPP file of this source code)
